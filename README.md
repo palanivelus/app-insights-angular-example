@@ -1,4 +1,4 @@
-# angular-webpack
+# angular-app insight sample app
 
 [![Dependency Status](https://david-dm.org/preboot/angular-webpack/status.svg)](https://david-dm.org/preboot/angular-webpack#info=dependencies) [![devDependency Status](https://david-dm.org/preboot/angular-webpack/dev-status.svg)](https://david-dm.org/preboot/angular-webpack#info=devDependencies)
 [![Join the chat at https://gitter.im/preboot/angular-webpack](https://badges.gitter.im/preboot/angular-webpack.svg)](https://gitter.im/preboot/angular-webpack?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -21,10 +21,12 @@ This seed repo serves as an Angular starter for anyone looking to get up and run
 
 ```bash
 # clone our repo
-$ git clone https://github.com/preboot/angular-webpack.git my-app
+$ git clone https://github.com/palanivelus/app-insights-angular-example.git app-insights-angular-example
+
 
 # change directory to your app
-$ cd my-app
+$ cd app-insights-angular-example
+
 
 # install the dependencies with npm
 $ npm install
