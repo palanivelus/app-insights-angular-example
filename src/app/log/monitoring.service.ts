@@ -5,7 +5,7 @@ import { AppInsights } from 'applicationinsights-js';
 export class MyMonitoringService { 
 
 	private config: Microsoft.ApplicationInsights.IConfig = { 
-		instrumentationKey: 'df5520a5-cbae-4692-8606-a869c8aa090c' 
+		instrumentationKey: 'a753d763-e4d0-4a86-a445-124947e45600' //Azure app insight instrumentation key
 	}; 
 
 	constructor() { 
